@@ -13,8 +13,8 @@ In addition, user research shows that people tend to be defiant about the inform
 
 Therefore, Kayak Marketing Team would like to create an application that will recommend where people should plan their next holidays. The application should be based on real data about:
 
-    Weather
-    Hotels in the area
+Weather
+Hotels in the area
 
 The application should then be able to recommend the best destinations and hotels based on the above variables at any given time.
 
@@ -32,7 +32,7 @@ Step 1:
  Step 4:
  on uploading_to_s3_and_RDS.ipynb, i upload this csv on AWS S3, i extract, transform and load cleaned data(ETL) to RDS (connection with pgAdmin)
 
- Step 5;
+ Step 5:
  Ploting the 20 hotels of the 5 best destinations (on uploading_to_s3_and_RDS.ipynb )
 
 
