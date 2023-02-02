@@ -3,7 +3,7 @@ Bloc_1 Construction et alimentation d'une infrastructure de gestion de données.
 Contact: Arnaud DALAIS
 E-mail  : arnaud.dalais@free.fr
 
-Video link : 👉  👈
+Video link : 👉 https://share.vidyard.com/watch/5WT536a2eE8WxZiGo1wYMP? 👈
 
 Subject
 
